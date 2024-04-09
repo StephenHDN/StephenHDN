@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Stephen
 
-👋I am currently in my second year pursuing a degree in Business Technology Management with a minor of Computer Science; Database systems at Toronto Metropolitan University. 
+👋I am currently in my second year pursuing a degree in Business Technology Management with a minor in Cybersecurity and Computer Science at Toronto Metropolitan University. 
 📒 I'm passionate about learning Data Analysis and Cyber Security!
 💬 Aside from the technical aspect of my self, I love to work out 🏋️‍♂️, bike around lakeshore 🚲 , and explore the beautiful sights of nature 🌱!
 
